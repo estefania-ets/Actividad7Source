@@ -1,4 +1,4 @@
-package es.dsw.models;
+package es.dsw.app;
 
 public class Profesor {
 
